@@ -22,7 +22,8 @@
 
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.gcssloop.widget'
+group = 'com.gcssloop.widget'
+version = '1.0'
 
 android {
     compileSdkVersion 28

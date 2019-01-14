@@ -20,4 +20,4 @@
  * WebSite: http://www.gcssloop.com
  */
 
-include ':app', ':rclayout'
+include ':app', ':library'
